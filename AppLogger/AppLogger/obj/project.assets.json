@@ -11,7 +11,7 @@
     "C:\\Users\\Takács Kornél\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "C:\\Users\\Takács Kornél\\source\\repos\\AppLogger\\AppLogger\\AppLogger.csproj",
       "projectName": "CalculateNugetPackage",
