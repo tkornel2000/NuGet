@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "AppLogger/1.0.3": {
+      "AppLogger/1.0.4": {
         "runtime": {
           "AppLogger.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "AppLogger/1.0.3": {
+    "AppLogger/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
